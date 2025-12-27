@@ -22,3 +22,12 @@ BlueScan/
 |-----reports/
 |  |--scan_report_251226_231111.txt
 |---README.md
+
+
+## Screenshot
+
+### Running the scanner
+![Scanner Running](screenshots/screenshots scan_terminal.png)
+
+### Sample report
+![Report Preview](screenshots/screenshots report_preview.png)
