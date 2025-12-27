@@ -1,0 +1,112 @@
+Network Vulnerability Scan Report
+--------------------------------
+
+Starting Nmap 7.95 ( https://nmap.org ) at 2025-12-26 23:10 EST
+Nmap scan report for 192.168.1.1
+Host is up (0.092s latency).
+All 1000 scanned ports on 192.168.1.1 are in ignored states.
+Not shown: 553 filtered tcp ports (net-unreach), 447 filtered tcp ports (no-response)
+
+Nmap scan report for 192.168.1.2
+Host is up (0.15s latency).
+All 1000 scanned ports on 192.168.1.2 are in ignored states.
+Not shown: 579 filtered tcp ports (net-unreach), 421 filtered tcp ports (no-response)
+
+Nmap scan report for 192.168.1.3
+Host is up (0.21s latency).
+All 1000 scanned ports on 192.168.1.3 are in ignored states.
+Not shown: 544 filtered tcp ports (net-unreach), 456 filtered tcp ports (no-response)
+
+Nmap scan report for 192.168.1.4
+Host is up (0.14s latency).
+All 1000 scanned ports on 192.168.1.4 are in ignored states.
+Not shown: 551 filtered tcp ports (net-unreach), 449 filtered tcp ports (no-response)
+
+Nmap scan report for 192.168.1.5
+Host is up (0.23s latency).
+All 1000 scanned ports on 192.168.1.5 are in ignored states.
+Not shown: 572 filtered tcp ports (net-unreach), 428 filtered tcp ports (no-response)
+
+Nmap scan report for 192.168.1.6
+Host is up (0.23s latency).
+All 1000 scanned ports on 192.168.1.6 are in ignored states.
+Not shown: 567 filtered tcp ports (net-unreach), 433 filtered tcp ports (no-response)
+
+Nmap scan report for 192.168.1.7
+Host is up (0.076s latency).
+All 1000 scanned ports on 192.168.1.7 are in ignored states.
+Not shown: 564 filtered tcp ports (net-unreach), 436 filtered tcp ports (no-response)
+
+Nmap scan report for 192.168.1.8
+Host is up (0.20s latency).
+All 1000 scanned ports on 192.168.1.8 are in ignored states.
+Not shown: 553 filtered tcp ports (net-unreach), 447 filtered tcp ports (no-response)
+
+Nmap scan report for 192.168.1.9
+Host is up (0.22s latency).
+All 1000 scanned ports on 192.168.1.9 are in ignored states.
+Not shown: 575 filtered tcp ports (net-unreach), 425 filtered tcp ports (no-response)
+
+Nmap scan report for 192.168.1.10
+Host is up (0.22s latency).
+All 1000 scanned ports on 192.168.1.10 are in ignored states.
+Not shown: 575 filtered tcp ports (net-unreach), 425 filtered tcp ports (no-response)
+
+Nmap scan report for 192.168.1.11
+Host is up (0.15s latency).
+All 1000 scanned ports on 192.168.1.11 are in ignored states.
+Not shown: 561 filtered tcp ports (net-unreach), 439 filtered tcp ports (no-response)
+
+Nmap scan report for 192.168.1.12
+Host is up (0.094s latency).
+All 1000 scanned ports on 192.168.1.12 are in ignored states.
+Not shown: 568 filtered tcp ports (net-unreach), 432 filtered tcp ports (no-response)
+
+Nmap scan report for 192.168.1.13
+Host is up (0.23s latency).
+All 1000 scanned ports on 192.168.1.13 are in ignored states.
+Not shown: 579 filtered tcp ports (net-unreach), 421 filtered tcp ports (no-response)
+
+Nmap scan report for 192.168.1.14
+Host is up (0.24s latency).
+All 1000 scanned ports on 192.168.1.14 are in ignored states.
+Not shown: 578 filtered tcp ports (net-unreach), 422 filtered tcp ports (no-response)
+
+Nmap scan report for 192.168.1.15
+Host is up (0.24s latency).
+All 1000 scanned ports on 192.168.1.15 are in ignored states.
+Not shown: 541 filtered tcp ports (net-unreach), 459 filtered tcp ports (no-response)
+
+Nmap scan report for 192.168.1.16
+Host is up (0.20s latency).
+All 1000 scanned ports on 192.168.1.16 are in ignored states.
+Not shown: 550 filtered tcp ports (net-unreach), 450 filtered tcp ports (no-response)
+
+Nmap scan report for 192.168.1.17
+Host is up (0.23s latency).
+All 1000 scanned ports on 192.168.1.17 are in ignored states.
+Not shown: 574 filtered tcp ports (net-unreach), 426 filtered tcp ports (no-response)
+
+Nmap scan report for 192.168.1.18
+Host is up (0.23s latency).
+All 1000 scanned ports on 192.168.1.18 are in ignored states.
+Not shown: 575 filtered tcp ports (net-unreach), 425 filtered tcp ports (no-response)
+
+Nmap scan report for 192.168.1.19
+Host is up (0.087s latency).
+All 1000 scanned ports on 192.168.1.19 are in ignored states.
+Not shown: 567 filtered tcp ports (net-unreach), 433 filtered tcp ports (no-response)
+
+Nmap scan report for 192.168.1.20
+Host is up (0.077s latency).
+All 1000 scanned ports on 192.168.1.20 are in ignored states.
+Not shown: 567 filtered tcp ports (net-unreach), 433 filtered tcp ports (no-response)
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 20 IP addresses (20 hosts up) scanned in 28.09 seconds
+
+
+Security Findings:
+
+Service: HTTP
+Issue: HTTP is unencrypted. use HTTPS.
