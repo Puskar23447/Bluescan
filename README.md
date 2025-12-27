@@ -27,7 +27,7 @@ BlueScan/
 ## Screenshot
 
 ### Running the scanner
-![Scanner Running](screenshots/screenshots scan_terminal.png)
+[Scanner Running](screenshots/scan_terminal.png)
 
 ### Sample report
-![Report Preview](screenshots/screenshots report_preview.png)
+[Report Preview](screenshots/report_preview.png)
